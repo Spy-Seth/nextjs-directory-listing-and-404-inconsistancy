@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-directory-listing-and-404-inconsistancy",
+  "name": "nextjs-directory-listing-and-404-inconsistency",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
