@@ -1,4 +1,4 @@
-# Next.js reproduction issue directory
+# Next.js reproduction issue directory listing instead of 404 error
 
 This directory demonstrate an inconsistency between Next.js dev mode (`next dev`) and the deployed version on versel.
 
